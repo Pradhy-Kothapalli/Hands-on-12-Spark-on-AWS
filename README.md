@@ -10,8 +10,7 @@
   - handsonfinalprocessed (processed/output)
 - Uploaded reviews.csv into the landing bucket
 
-![S3 setup Screenshot](Screenshot%202026-04-14%231826.png)
-
+![S3 setup Screenshot](Screenshot 2026-04-14 231826.png)
 ---
 
 ### 2. IAM Role
@@ -114,9 +113,9 @@ ORDER BY rating;
 - Data ingestion triggered automatically via S3 upload
 - Glue processed and transformed data using Spark
 - Analytical results stored in S3 for further use (Athena-ready)
-![S3 results Screenshot](Screenshot%202026-04-14%231138.png)
-![S3 results Screenshot](Screenshot%202026-04-14%231112.png)
-![S3 results Screenshot](Screenshot%202026-04-14%231058.png)
+![S3 results Screenshot](Screenshot 2026-04-14 231138.png)
+![S3 results Screenshot](Screenshot 2026-04-14 231112.png)
+![S3 results Screenshot](Screenshot 2026-04-14 231058.png)
 ---
 
 ## Issues Faced
