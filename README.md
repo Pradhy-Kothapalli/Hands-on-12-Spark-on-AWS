@@ -116,7 +116,7 @@ ORDER BY rating;
 - Analytical results stored in S3 for further use (Athena-ready)
 ![S3 results Screenshot](Screenshot%202026-04-14%231138.png)
 ![S3 results Screenshot](Screenshot%202026-04-14%231112.png)
-
+![S3 results Screenshot](Screenshot%202026-04-14%231058.png)
 ---
 
 ## Issues Faced
