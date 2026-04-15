@@ -112,8 +112,7 @@ ORDER BY rating;
 - Built a fully automated serverless ETL pipeline
 - Data ingestion triggered automatically via S3 upload
 - Glue processed and transformed data using Spark
-- Analytical results stored in S3 for further use (Athena-ready)
-![S3 results Screenshot](Screenshot 2026-04-14 231138.png)
+- Analytical results stored in S3 for further use
 ![S3 results Screenshot](Screenshot%202026-04-14%20231138.png)
 ![S3 results Screenshot](Screenshot%202026-04-14%20231112.png)
 ![S3 results Screenshot](Screenshot%202026-04-14%20231058.png)
